@@ -1,0 +1,11 @@
+[2017-06-06 15:38:55 PRC] PHP Error: 
+{
+    "type": "Runtime Error",
+    "level": 2,
+    "message": "Missing argument 2 for ifeiwu\\Controller::__construct(), called in \/var\/www\/qing\/m0002\/ifeiwu\/library\/Router.php on line 2 and defined",
+    "file": "\/var\/www\/qing\/m0002\/ifeiwu\/library\/Controller.php",
+    "line": 2,
+    "trace": {
+        "request": {}
+    }
+}

@@ -1,0 +1,36 @@
+.header {
+	background-color: rgba(0,0,0,0.9);
+}
+
+.header > a {
+	color: #fff;
+}
+
+.header > .icon-prev.disabled,
+.header > .icon-next.disabled {
+	color: rgba(255,255,255,0.2)
+}
+
+.loading {
+	color: #000000;
+}
+
+.spinner {
+	background-color: #000000;
+}
+
+.menu-panel {
+	background-color: rgba(0,0,0,0.96);
+}
+
+.menu-panel h2 {
+	color: #fff;
+}
+
+.menu-panel ul a {
+	color: rgba(255, 255, 255, 0.7);
+}
+
+.menu-panel ul a.active{
+	color: #fff;
+}

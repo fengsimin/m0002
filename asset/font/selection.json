@@ -1,0 +1,143 @@
+{
+	"IcoMoonType": "selection",
+	"icons": [
+		{
+			"icon": {
+				"paths": [
+					"M786.297 293.151l-55.446-55.446-218.849 218.849-218.849-218.849-55.446 55.446 218.849 218.849-218.849 218.849 55.446 55.446 218.849-218.849 218.849 218.849 55.446-55.446-218.849-218.849z"
+				],
+				"attrs": [],
+				"isMulticolor": false,
+				"tags": [
+					"clear"
+				],
+				"grid": 24
+			},
+			"attrs": [],
+			"properties": {
+				"id": 260,
+				"order": 1,
+				"prevSize": 24,
+				"code": 62979,
+				"name": "exit"
+			},
+			"setIdx": 0,
+			"setId": 0,
+			"iconIdx": 0
+		},
+		{
+			"icon": {
+				"paths": [
+					"M144 757.333h245.333v-81.777h-245.333v81.777zM144 266.667v81.777h736v-81.777h-736zM144 552.889h490.667v-81.777h-490.667v81.777z"
+				],
+				"attrs": [],
+				"isMulticolor": false,
+				"tags": [
+					"sort"
+				],
+				"grid": 24
+			},
+			"attrs": [],
+			"properties": {
+				"id": 284,
+				"order": 4,
+				"prevSize": 24,
+				"code": 62976,
+				"name": "menu"
+			},
+			"setIdx": 0,
+			"setId": 0,
+			"iconIdx": 1
+		},
+		{
+			"icon": {
+				"paths": [
+					"M657.707 696.96l-195.627-195.627 195.627-195.627-60.373-60.373-256 256 256 256z"
+				],
+				"attrs": [],
+				"isMulticolor": false,
+				"tags": [
+					"keyboard-arrow-left"
+				],
+				"grid": 24
+			},
+			"attrs": [],
+			"properties": {
+				"id": 450,
+				"order": 2,
+				"prevSize": 24,
+				"code": 62977,
+				"name": "prev"
+			},
+			"setIdx": 0,
+			"setId": 0,
+			"iconIdx": 2
+		},
+		{
+			"icon": {
+				"paths": [
+					"M366.293 702.293l195.627-195.627-195.627-195.627 60.373-60.373 256 256-256 256z"
+				],
+				"attrs": [],
+				"isMulticolor": false,
+				"tags": [
+					"keyboard-arrow-right"
+				],
+				"grid": 24
+			},
+			"attrs": [],
+			"properties": {
+				"id": 451,
+				"order": 3,
+				"prevSize": 24,
+				"code": 62978,
+				"name": "next"
+			},
+			"setIdx": 0,
+			"setId": 0,
+			"iconIdx": 3
+		}
+	],
+	"height": 1024,
+	"metadata": {
+		"name": "font01"
+	},
+	"preferences": {
+		"showGlyphs": true,
+		"showQuickUse": true,
+		"showQuickUse2": true,
+		"showSVGs": true,
+		"fontPref": {
+			"prefix": "icon-",
+			"metadata": {
+				"fontFamily": "font01",
+				"majorVersion": 1,
+				"minorVersion": 0
+			},
+			"metrics": {
+				"emSize": 1024,
+				"baseline": 6.25,
+				"whitespace": 50
+			},
+			"showSelector": true,
+			"showMetrics": true,
+			"showMetadata": true,
+			"showVersion": false,
+			"selector": "",
+			"classSelector": ".icon",
+			"resetPoint": 58880,
+			"embed": false
+		},
+		"imagePref": {
+			"prefix": "icon-",
+			"png": true,
+			"useClassSelector": true,
+			"color": 4473924,
+			"bgColor": 16777215,
+			"classSelector": ".icon"
+		},
+		"historySize": 100,
+		"showCodes": true,
+		"gridSize": 16
+	}
+}
